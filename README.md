@@ -1,19 +1,43 @@
-# Hi, I'm Rossatto
+<h1 align="center">Enzo Rossatto</h1>
 
-Cybersecurity student at Master.D, based in Portugal.
-Six years in operations and customer-facing roles, now building technical skills for a Junior SOC / Security Analyst role.
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square" />
+</p>
 
-## What I'm learning
-- Networking and TCP/IP
-- Firewalls (Linux and Windows)
-- Python scripting
-- Digital forensics basics
+```bash
+enzo@portugal:~$ whoami
+cybersecurity student | aspiring SOC / security analyst
 
-## What I'm building
-My hands-on labs live in [cybersecurity-labs](https://github.com/Rossattoo/cybersecurity-labs), all done in isolated VMs.
+enzo@portugal:~$ cat background.txt
+6 years in operations, management and customer-facing roles.
+Now building technical skills in a Cybersecurity course at Master.D.
 
-## Languages
-Portuguese (native), English (B2), Italian (B1)
+enzo@portugal:~$ cat focus.txt
+networking | firewalls (Linux/Windows) | Python | digital forensics
 
-## Find me
+enzo@portugal:~$ ls labs/
+01-wireshark-basics   [done]
+02-bruteforce-detector [in progress]
+
+enzo@portugal:~$ cat languages.txt
+Portuguese (native) | English (B2) | Italian (B1)
+```
+
+## Labs
+All my hands-on work lives in [cybersecurity-labs](https://github.com/Rossattoo/cybersecurity-labs), always in isolated VMs.
+
+## Status
+| Area | Where I am |
+|---|---|
+| Networking / TCP/IP | Learning, with a Wireshark lab done |
+| Firewalls | Course topic, lab coming |
+| Python | Writing a log analysis script |
+| Pentesting / hardening | Next in the course |
+
+## Contact
 [LinkedIn](https://www.linkedin.com/in/rossattocybersecurity)
