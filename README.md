@@ -27,4 +27,4 @@ All my hands-on work lives in [cybersecurity-labs](https://github.com/Rossattoo/
 Portuguese (native) | English (B2) | Italian (B1)
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/rossattocybersecurity)
+[LinkedIn](www.linkedin.com/in/rossatto-cybersecurity)
